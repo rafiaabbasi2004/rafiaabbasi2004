@@ -5,9 +5,9 @@
 <h2>Skills and Technologies  &#128295;</h2>
 <p>
   <ul>
-    <li> <b>Languages: </b> C++, C#, Html, Css, JavaScript, Dart, Python</li>
-    <li><b>FrontEnd : </b>Flutter</li>
-    <li><b>Backend : Firebase, MySql</li>
+    <li> <b>Languages: </b> C++, C#, Html, Css, JavaScript, Dart, Python, React</li>
+    <li><b>FrontEnd : </b>Flutter, React, JS</li>
+    <li><b>Backend : Firebase, MySql, MONGODB</li>
   </ul>
  </p>
  <h2>Get in Touch 📫</h2>
